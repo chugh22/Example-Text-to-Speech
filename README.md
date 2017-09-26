@@ -1,5 +1,5 @@
-# Example-Text-to-Speech
-Example use of text to speech api
+# Example-Speech-to-Text
+Example use of speech to text api
 
 ### Code snippet
 ```java
